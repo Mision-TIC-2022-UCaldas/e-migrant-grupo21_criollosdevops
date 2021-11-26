@@ -1,0 +1,16 @@
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.exe
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.deps.json
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.runtimeconfig.json
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.runtimeconfig.dev.json
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.dll
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\ref\CalcularIMC.dll
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\bin\Debug\net5.0\CalcularIMC.pdb
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.AssemblyInfoInputs.cache
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.AssemblyInfo.cs
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.dll
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\ref\CalcularIMC.dll
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.pdb
+C:\Users\JAROD\JACOBZASH Dropbox\JAROD ALEXANDER HINCAPIE\Mi PC (LAPTOP-TC2C9KPA)\Desktop\MISION TIC\HACKATON\Calentamiento\CalcularIMC\obj\Debug\net5.0\CalcularIMC.genruntimeconfig.cache
