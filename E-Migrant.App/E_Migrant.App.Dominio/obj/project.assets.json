@@ -722,19 +722,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tec_miguelc\\.nuget\\packages\\": {}
+    "C:\\Users\\JAROD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj",
       "projectName": "E_Migrant.App.Dominio",
-      "projectPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\tec_miguelc\\.nuget\\packages\\",
-      "outputPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\JAROD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tec_miguelc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JAROD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
