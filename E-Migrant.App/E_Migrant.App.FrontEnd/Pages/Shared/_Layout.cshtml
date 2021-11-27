@@ -1,16 +1,16 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿<!doctype html>
+<html lang="en" class="h-100">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
 
-    <title>@ViewData["Title"] - E_Migrant.App.FrontEnd</title>
+    <title>@ViewData["Title"] ParkingApp</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/cover/">
 
     <!-- Bootstrap core CSS -->
@@ -61,66 +61,81 @@
 
     <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
-
 </head>
+
 <body class="d-flex h-100 text-center text-white bg-dark">
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column"></div>
+
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="mb-auto">
             <div>
-                <h2 style="color:Orange;" class="float-md-start mb-0" asp-area="" asp-page="/Index">E-MIGRANTE</h2>
-            </div> 
+                <h2 style="color:Orange;" class="float-md-start mb-0" asp-area="" asp-page="/Index">HACKATON MISION TIC --- E_MIGRANT</h2>
+            </div>
+
             <hr style="background-color:grey;">
             <nav class="nav nav-masthead justify-content-center float-md-end">
 
-            <h5> <a style="color:white;" class="nav-link active" aria-current="page" href="/Index">Inicio</a></h5>
-                    <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
-                    
-                    <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <h5> <a style="color:white;" class="nav-link active" aria-current="/Index" href="/Index">Inicio</a></h5>
 
                     <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
 
+                    <h5> <a style="color:white;" class="nav-link" href="/GestorGerente/ListarGerente">Gestionar Gerente</a>
+                    </h5>
+
                     <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
-                    
+
                     <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
-                    
+
                     <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
-                    
-                    <h5> <li class="nav-item dropdown">
-                        <a style="color:#FFFFFF" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Gestionar Migrantes
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="/Migrante/CrearMigrante">Crear Migrante</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="/Migrante/ListarMigrante">Actualizar Migrante</a>
 
-                        </div>
-                    </h5>    
+                    <h5> <a style="color:white;" class="nav-link" href="">Gestionar </a></h5>
 
+                    <h5>
+                        <li class="nav-item dropdown">
+                            <a style="color:#FFFFFF" class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                            role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Registrar Migrantes
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/Migrante/CrearMigrante">Crear Migrante</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/Migrante/ListarMigrante">Actualizar Migrante</a>
 
-                
+                            </div>
+                    </h5>
 
+                    <li class="nav-item">
+                        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout"
+                        asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                            <button type="submit" class="btn btn-primary">Cerrar sesión</button>
+                        </form>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a href="/Identity/Account/Login" class="btn btn-primary">Login</a>
+                    </li>
+                }
 
-
-
-                     
-                
             </nav>
             <hr style="background-color:grey;">
         </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
     </div>
-
-    
-
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-
-    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("scripts", false)
 </body>
+
 </html>
