@@ -12,6 +12,11 @@ namespace E_Migrant.App.Persistencia
         public DbSet<Persona> Personas { get; set; }
 
         public DbSet<Empresa> Empresas { get; set; }
+        public DbSet<Amigo> Amigos { get; set; }
+
+        public DbSet<Nesecidad> Nesecidades { get; set; }
+
+        public DbSet<ServiciosEmpresa> ServiciosEmpresas { get; set; }
       
         protected override void OnConfiguring(DbContextOptionsBuilder options){
             if (!options.IsConfigured){

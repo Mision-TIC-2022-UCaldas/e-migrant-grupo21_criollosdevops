@@ -7455,19 +7455,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JAROD\\.nuget\\packages\\": {}
+    "C:\\Users\\tec_miguelc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\E_Migrant.App.FrontEnd.csproj",
+      "projectUniqueName": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\E_Migrant.App.FrontEnd.csproj",
       "projectName": "E_Migrant.App.FrontEnd",
-      "projectPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\E_Migrant.App.FrontEnd.csproj",
-      "packagesPath": "C:\\Users\\JAROD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\obj\\",
+      "projectPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\E_Migrant.App.FrontEnd.csproj",
+      "packagesPath": "C:\\Users\\tec_miguelc\\.nuget\\packages\\",
+      "outputPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JAROD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tec_miguelc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7479,11 +7479,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj"
+            "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj": {
+              "projectPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj"
             },
-            "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\JAROD\\JACOBZASH Dropbox\\JAROD ALEXANDER HINCAPIE\\Mi PC (LAPTOP-TC2C9KPA)\\Desktop\\MISION TIC\\HACKATON\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj"
+            "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj": {
+              "projectPath": "C:\\Hackaton2.0\\E-Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj"
             }
           }
         }
